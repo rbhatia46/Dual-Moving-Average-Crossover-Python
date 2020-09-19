@@ -1,6 +1,8 @@
 # Dual-Moving-Average-Crossover-Python
 The famous and simple Dual Moving Average crossover strategy implemented in Python, and then backtesting it on 2 years of AAPL stock.
 
+Playaround - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rbhatia46/Dual-Moving-Average-Crossover-Python/master)
+
 **Disclaimer - This is purely for educational and research purposes, I am in no way responsible for any monetary loss/gain you make using this, I highly encourage you to view this as a learning resource and not as a trading advice.**
 
 Dual Moving Average Crossover is a famous and simple trading strategy employed by a lot of traders, as it is simple to undeerstand and outputs profitable trading signals many a times, this repository shows how you can code this simple strategy in Python and backtest the same, in this example, we apply this straegy to 2 yrs of AAPL stock, and this returns a **32% on your investment in 2 years**, not bad!
